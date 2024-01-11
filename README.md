@@ -34,4 +34,7 @@ The contract relies on the following external dependencies:
 - OpenZeppelin's Ownable implementation: [@openzeppelin/contracts/access/Ownable.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol)
 
 ## Transactions
+- `Deployed address on Avalanche Testnet` : 0x7ECFB17fae78476Cc0A6Ca7239e87B8C40B61406
+- ![image](https://github.com/ManiShanker43/DegenToekns/assets/130231291/f158dd44-6256-4577-97f6-cdab74ee51de)
+
 
